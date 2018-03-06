@@ -1,0 +1,2 @@
+# SnifSnoof
+Automated vulnerability scanner
